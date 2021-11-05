@@ -1,0 +1,6 @@
+numpy=1.19.5
+scikit-image=0.16.2
+dlib=19.22.1
+opencv-python=4.5.4.58
+tqdm=4.42.1
+pathlib2=2.3.5
